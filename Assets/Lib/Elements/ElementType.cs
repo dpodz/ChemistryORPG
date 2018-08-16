@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Assets.Lib.Elements
 {
-    enum ElementType
+    public enum ElementType
     {
         HYDROGEN                = 0,
         NOBLE_GAS               = 1,

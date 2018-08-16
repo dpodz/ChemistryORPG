@@ -81,7 +81,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Lib\ContentContainer.cs" />
     <Compile Include="Assets\Lib\Elements\Compound.cs" />
+    <Compile Include="Assets\Lib\Elements\CompoundType.cs" />
     <Compile Include="Assets\Lib\Elements\Element.cs" />
     <Compile Include="Assets\Lib\Elements\ElementType.cs" />
     <Compile Include="Assets\Scripts\ElementEditor.cs" />

@@ -5,9 +5,10 @@ using System.Text;
 
 namespace Assets.Lib.Elements
 {
-    class Compound
+    public class Compound
     {
         public string Name;
         public IList<Element> Elements;
+        public CompoundType Type;
     }
 }
